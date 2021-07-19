@@ -2,7 +2,7 @@ import os
 
 def main():
     counter = 0
-	while counter <=3:
+	while true:
 		print("hello world")
 	counter = counter+1
 
