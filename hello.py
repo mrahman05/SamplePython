@@ -1,10 +1,10 @@
 import os
 
 def main():
-    for i in range(0,5):
-        for j in range(0,2):
-            for k in range(10):
-                print("hello")
+    counter = 0
+	while counter <=3:
+		print("hello world")
+	counter = counter+1
 
 if __name__=="__main__":
     main()
